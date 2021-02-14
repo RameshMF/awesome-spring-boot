@@ -49,4 +49,13 @@ Check out more Spring boot books at https://www.javaguides.net/2019/11/best-spri
 
 * <a href="https://www.javaguides.net/2021/02/java-free-e-commerce-open-source-projects.html" target="_blank">Java Free E-Commerce Open Source Projects using Spring Boot + React + Angular + Microservices | Download </a>
 
+# Contributing
+Contributions are very welcome!
+
+Please, read the <a href="https://github.com/RameshMF/awesome-spring-boot/blob/main/CONTRIBUTING.md" target="_blank">Contribution Guidelines</a> before submitting your suggestion.
+
+Feel free to open an issue or create a pull request with your additions.
+
+Thank you!
+
 
