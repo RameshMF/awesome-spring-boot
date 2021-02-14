@@ -27,7 +27,7 @@ Check more blogs and websites at https://www.javaguides.net/2019/07/best-spring-
 * <a href="https://www.youtube.com/channel/UCLz7LG4YVi7_iyk4yOARcxA" style="background: transparent; color: #3d85c6; text-decoration-line: none;" target="_blank">@ in28minutes</a>
 
 Check out more at https://www.javaguides.net/2020/06/best-youtube-channels-to-learn-spring-boot.html
-
+ 
 # Best Spring Boot Books
 * <a href="https://www.amazon.com/Learning-Spring-Boot-2-0-microservices/dp/1786463784" target="_blank">Learning Spring Boot 2.0 - Second Edition</a>
 * <a href="https://www.amazon.com/Spring-Boot-Action-Craig-Walls/dp/1617292540" target="_blank">Spring Boot in Action</a>
@@ -36,3 +36,14 @@ Check out more at https://www.javaguides.net/2020/06/best-youtube-channels-to-le
 * <a href="https://www.amazon.in/Learn-Microservices-Spring-Boot-Practical/dp/1484231643" target="_blank">Learn Microservices with Spring Boot</a>
 
 Check out more Spring boot books at https://www.javaguides.net/2019/11/best-spring-boot-books.html
+
+# Free Spring Boot Projects for Learning Purposes
+<a href="https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html" target="_blank">20+ Free Open Source Projects Using Spring Boot</a>
+  
+<a href="https://www.javaguides.net/2020/06/free-spring-boot-microservices-open-source-projects-github.html" target="_blank">Free Spring Boot Microservices Open Source Projects | GitHub </a>
+
+<a href="https://www.javaguides.net/2020/06/free-spring-boot-angular-open-source-projects-github.html" target="_blank">Free Spring Boot Angular Open Source Projects | GitHub</a>
+
+<a href="https://www.javaguides.net/2020/08/free-spring-boot-reactjs-open-source-projects-github.html" target="_blank">Free Spring Boot ReactJS Open Source Projects | GitHub </a>
+
+<a href="https://www.javaguides.net/2021/02/java-free-e-commerce-open-source-projects.html" target="_blank">Java Free E-Commerce Open Source Projects using Spring Boot + React + Angular + Microservices | Download </a>
