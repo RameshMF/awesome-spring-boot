@@ -49,6 +49,13 @@ Check out more Spring boot books at https://www.javaguides.net/2019/11/best-spri
 
 * <a href="https://www.javaguides.net/2021/02/java-free-e-commerce-open-source-projects.html" target="_blank">Java Free E-Commerce Open Source Projects using Spring Boot + React + Angular + Microservices | Download </a>
 
+# Spring Boot Reference Documentation - Official
+
+* <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="_blank">Latest Spring Boot Reference Documentation</a>
+* <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#howto" target="_blank">Spring Boot "How-to" Guides</a>
+* <a href="https://docs.spring.io/spring-cloud/docs/current/reference/html/" target="_blank">Spring Cloud Reference Documentation</a>
+* <a href="https://spring.io/guides" target="_blank">Spring Quick Guides and Tutorials</a>
+
 # Contributing
 Contributions are very welcome!
 
