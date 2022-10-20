@@ -18,6 +18,7 @@ A curated list of awesome blogs, tutorials, courses, and resources for the Sprin
 * <a href="https://www.logicbig.com/tutorials/spring-framework/spring-boot.html" target="_blank">LogicBig</a> - Spring Boot and Java Tutorials
 * <a href="https://www.concretepage.com/spring-boot/" target="_blank">ConcretePage.com</a> - Spring Boot and Java Tutorials 
 * <a href="https://www.sivalabs.in/categories/springboot/" target="_blank">SivaLabs</a> - Tutorials about Spring boot, microservices.
+* <a href="https://www.bezkoder.com/category/spring/" target="_blank">Bezkoder</a> - Tutorials about Full-stack development with Spring Boot
 
 Check more blogs and websites at https://www.javaguides.net/2019/07/best-spring-boot-tutorials.html
 
