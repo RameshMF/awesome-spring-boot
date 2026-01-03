@@ -12,6 +12,7 @@ A curated list of awesome blogs, tutorials, courses, and resources for the Sprin
 * <a href="https://reflectoring.io/" target="_blank">Reflectoring</a> - Guides and tutorials about Spring Boot, Java, and software development principles.
 * <a href="https://rieckpil.de/category/spring-framework/" target="_blank">Philip Riecks</a> - Guides and tutorials about Spring Framework, Spring Boot, and Spring Test.
 * <a href="https://spring.io/blog" rel="nofollow">Spring Official Blog</a> - - Official blog of the Spring community.
+* <a href="https://vedika.io" target="_blank">Vedika API</a> - REST API for Vedic astrology, AI-powered chatbot, and 108+ endpoints for Spring Boot applications.
 
 * <a href="https://www.journaldev.com/7969/spring-boot-tutorial" target="_blank">JournalDev</a> - Tutorials about Core Java, Python, Spring Framework, Spring Boot.
 * <a href="https://www.callicoder.com/categories/spring-boot/" target="_blank">Callicoder</a> - Tutorials about Core Java, Python, Kotlin and Spring Boot.
