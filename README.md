@@ -45,6 +45,8 @@ Check out more Spring boot books at https://www.javaguides.net/2019/11/best-spri
 # Free Spring Boot Projects for Learning Purposes
 * <a href="https://www.javaguides.net/2018/10/free-open-source-projects-using-spring-boot.html" target="_blank">20+ Free Open Source Projects Using Spring Boot</a>
   
+* <a href="https://github.com/myacelw/mybatis-dynamic" target="_blank">mybatis-dynamic</a> - Code-first dynamic ORM for MyBatis with Spring Boot integration.
+
 * <a href="https://www.javaguides.net/2020/06/free-spring-boot-microservices-open-source-projects-github.html" target="_blank">Free Spring Boot Microservices Open Source Projects | GitHub </a>
 
 * <a href="https://www.javaguides.net/2020/06/free-spring-boot-angular-open-source-projects-github.html" target="_blank">Free Spring Boot Angular Open Source Projects | GitHub</a>
