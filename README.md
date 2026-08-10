@@ -65,6 +65,9 @@ Check out more Spring boot books at https://www.javaguides.net/2019/11/best-spri
 * <a href="https://www.jhipster.tech/" rel="nofollow">JHipster</a> - Quickly generate, develop, and deploy Spring Boot web applications and microservice architectures.
 * <a href="https://start.spring.io/" rel="nofollow">Spring Initializr</a> - Get the basic structure of your Spring Boot project with your config and dependencies.
 
+# Developer Tools & Diagnostics
+* <a href="https://github.com/ddsha441981/wiredoctor" target="_blank">WireDoctor</a> - Runtime diagnostic for Spring Boot apps that detects cyclic bean dependencies and slow beans, with CI regression gates.
+
 # Contributing
 Contributions are very welcome!
 
