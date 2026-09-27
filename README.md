@@ -64,6 +64,7 @@ Check out more Spring boot books at https://www.javaguides.net/2019/11/best-spri
 * <a href="https://bootify.io" rel="nofollow">Bootify</a> - Generate Spring Boot apps with custom database and REST API.
 * <a href="https://www.jhipster.tech/" rel="nofollow">JHipster</a> - Quickly generate, develop, and deploy Spring Boot web applications and microservice architectures.
 * <a href="https://start.spring.io/" rel="nofollow">Spring Initializr</a> - Get the basic structure of your Spring Boot project with your config and dependencies.
+* <a href="https://github.com/Sweety717/CodeGuard-AI" rel="nofollow">CodeGuard AI</a> - AI-powered code review tool for GitHub Pull Requests, built with Spring Boot.
 
 # Contributing
 Contributions are very welcome!
